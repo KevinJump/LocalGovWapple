@@ -2,9 +2,9 @@ LocalGovWapple
 ==============
 
 A hacked together script, using wappalyzer
-- on localgov sites
+on localgov sites. with some extra cms stuff
 
-three scripts 
+three main scripts:
 
 DbCleanSetup.py
 ----------------
